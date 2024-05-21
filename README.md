@@ -3,7 +3,7 @@
 
 This script will guide you through the installation of my custom themes. It is currently in a commented state, so please execute it line by line to prevent any errors in UNC paths.
 
-## Screenshot
+##
 
 ![DS923+](assets/screenshot.png)
 
