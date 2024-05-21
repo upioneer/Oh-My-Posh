@@ -1,7 +1,7 @@
 
 # Oh My Posh - Custom Theme
 
-This script will walk you through installing my custom theme. It is currently commented out, so run it line by line to ensure no errors in unc paths. I will update this script to work under current user context at some point.
+This script will guide you through the installation of my custom themes. It is currently in a commented state, so please execute it line by line to prevent any errors in UNC paths.
 
 ## Screenshot
 
